@@ -7,12 +7,11 @@ class Solution:
         def count():
             resp = 0
 
-
             visited = set()
             
             for i in range (m):
                 for j in range (n):
-                    if grid [i][j] == 1:
+                    if grid [i][j] == 1 and (i, j) not in visited:
                         resp += 1
 
                         queue = collections.deque([(i, j)])
@@ -32,7 +31,7 @@ class Solution:
             return resp
 
         
-        directions = [[1,1]]
+        directions = [(-1, 0), (1,0), (0,-1), (0,1)]
 
         m = len(grid)
         n = len(grid[0])
