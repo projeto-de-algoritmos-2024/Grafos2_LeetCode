@@ -18,11 +18,21 @@ Este projeto tem como objetivo resolver questões do [LeetCode](https://leetcode
 
 ## Questões
 
-Em andamento
+| Nome                                                                                                                                                                | Nível   | Vídeo                                                                                                                                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [1568. Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/is-graph-bipartite/description/)                                                                          | Difícil   | [Link](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/) |
 
 ## Screenshots
 
+### [1568. Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/is-graph-bipartite/description/)
 
+Caso 1:
+
+![](https://github.com/user-attachments/assets/98455d8e-0f99-4327-baf5-69517ba68af0)<br>
+
+Caso 2:
+
+![](https://github.com/user-attachments/assets/ad983e6f-06d2-4a19-980b-d369db38f8f0)<br>
 
 ## Instalação
 
