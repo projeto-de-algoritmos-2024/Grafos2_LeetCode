@@ -21,7 +21,7 @@ Este projeto tem como objetivo resolver questões do [LeetCode](https://leetcode
 | Nome                                                                                                                                                                | Nível   | Vídeo                                                                                                                                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [1568. Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/is-graph-bipartite/description/)                                                                          | Difícil   | [Link](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/) |
-| [ 1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | Difícil   | [Link](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) |
+| [ 1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | Média   | [Link](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) |
 
 
 ## Screenshots
