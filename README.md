@@ -50,6 +50,16 @@ Caso 2:
 
 ![](https://github.com/user-attachments/assets/7ce979d7-4126-47ff-8172-d16a5e02f228)<br>
 
+### [2360. Longest Cycle in the Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description/)
+
+Caso 1:
+
+![](https://assets.leetcode.com/uploads/2022/06/08/graph4drawio-5.png)<br>
+
+Caso 2:
+
+![](https://assets.leetcode.com/uploads/2022/06/07/graph4drawio-1.png)<br>
+
 ## Instalação
 
 **Linguagem**: Python3 <br>
