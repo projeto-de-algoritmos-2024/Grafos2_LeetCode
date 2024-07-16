@@ -2,7 +2,7 @@ from typing import List
 
 
 def longestCycle(self, edges: List[int]) -> int:
-    ans = -1
+    comprimento = -1
     time = 1
     timeVisited = [0] * len(edges)
 
@@ -14,8 +14,8 @@ def longestCycle(self, edges: List[int]) -> int:
         while u != -1 and not timeVisited[u]:
             timeVisited[u] = time
             time += 1
-            u = edges[u]  # Mover para o próximo nó.
+            u = edges[u]  # Mover para o próximo nó
         if u != -1 and timeVisited[u] >= startTime:
-            ans = max(ans, time - timeVisited[u])
+            comprimento = max(comprimento, time - timeVisited[u])
 
-    return ans
+    return comprimento
