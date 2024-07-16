@@ -20,7 +20,7 @@ Este projeto tem como objetivo resolver questões do [LeetCode](https://leetcode
 
 | Nome                                                                                                                                                                | Nível   | Vídeo                                                                                                                                                                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [1568. Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/is-graph-bipartite/description/)                                                                          | Difícil   | [Link](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/) |
+| [1568. Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/) |
 | [ 1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | Média   | [Link](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) |
 
 
@@ -35,6 +35,18 @@ Caso 1:
 Caso 2:
 
 ![](https://github.com/user-attachments/assets/ad983e6f-06d2-4a19-980b-d369db38f8f0)<br>
+
+
+### [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
+
+Caso 1:
+
+![](https://github.com/user-attachments/assets/90bd0e4c-6ce8-4b4d-b990-734ded92e735)<br>
+
+
+Caso 2:
+
+![](https://github.com/user-attachments/assets/7ce979d7-4126-47ff-8172-d16a5e02f228)<br>
 
 ## Instalação
 
