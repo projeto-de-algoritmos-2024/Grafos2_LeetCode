@@ -18,11 +18,15 @@ Este projeto tem como objetivo resolver questões do [LeetCode](https://leetcode
 
 ## Questões
 
-| Nome                                                                                                                                                                | Nível   | Vídeo                                                                                                                                                                                                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [1568. Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/) |
-| [ 1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) | Média   | [Link](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) |
+| Nome                                                                                                                            | Nível   |
+| ------------------------------------------------------------------------------------------------------------------------------- | ------- | --------------------------------------------------------------------------------- |
+| [1568. Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/) | Difícil |
+| [2360. Longest Cycle in the Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description/)                         | Difícil |
+| [ 1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)              | Média   | [Link](https://leetcode.com/problems/min-cost-to-connect-all-points/description/) |
 
+## Vídeo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9_2235_ZHps?si=1mfFJHI7DXfEtxAF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Screenshots
 
@@ -36,13 +40,11 @@ Caso 2:
 
 ![](https://github.com/user-attachments/assets/ad983e6f-06d2-4a19-980b-d369db38f8f0)<br>
 
-
 ### [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)
 
 Caso 1:
 
 ![](https://github.com/user-attachments/assets/90bd0e4c-6ce8-4b4d-b990-734ded92e735)<br>
-
 
 Caso 2:
 
