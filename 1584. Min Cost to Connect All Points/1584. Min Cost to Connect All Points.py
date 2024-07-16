@@ -1,20 +1,20 @@
-import heapq
-from typing import List
-
 class Solution:
     def minCostConnectPoints(self, points: List[List[int]]) -> int:
         n = len(points)
 
-        # Criação da lista de adjacência
+        # Criação da lista de adjacência pra armazenar as distâncias entre os pontos
         adj = {i: [] for i in range(n)}
 
+
+        # Calcula a distância entre cada par de pontos e armazena na lista de adjacência
         for i in range(n):
             x1, y1 = points[i]
             for j in range(i + 1, n):
                 x2, y2 = points[j]
-                d = abs(x1 - x2) + abs(y1 - y2)
+                d = abs(x1 - x2) + abs(y1 - y2) # calcula a distância entre i e j
                 adj[i].append([d, j])
                 adj[j].append([d, i])
+
 
         resp = 0
         visited = set()
@@ -32,7 +32,7 @@ class Solution:
 
         return resp
 
-# Exemplo de uso:
+
 solution = Solution()
-points = [[0,0],[2,2],[3,10],[5,2],[7,0]]
-print(solution.minCostConnectPoints(points))  # Output esperado: 20
+points = [[3,12],[-2,5],[-4,1]]
+print(solution.minCostConnectPoints(points))  
