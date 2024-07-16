@@ -19,10 +19,10 @@ Este projeto tem como objetivo resolver questões do [LeetCode](https://leetcode
 ## Questões
 
 | Nome                                                                                                                            | Nível   |
-| ------------------------------------------------------------------------------------------------------------------------------- | ------- | 
+| ------------------------------------------------------------------------------------------------------------------------------- | ------- |
 | [1568. Minimum Number of Days to Disconnect Island](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/) | Difícil |
 | [2360. Longest Cycle in the Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description/)                         | Difícil |
-| [ 1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)              | Média   | 
+| [ 1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)              | Média   |
 
 ## Vídeo
 
@@ -54,11 +54,11 @@ Caso 2:
 
 Caso 1:
 
-![](https://assets.leetcode.com/uploads/2022/06/08/graph4drawio-5.png)<br>
+![](./screenshots/1.png)<br>
 
 Caso 2:
 
-![](https://assets.leetcode.com/uploads/2022/06/07/graph4drawio-1.png)<br>
+![](./screenshots/2.png)<br>
 
 ## Instalação
 
